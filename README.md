@@ -1,7 +1,7 @@
 
 # Master Sheet Management System (MSMS)
 
-<iframe src="https://player.vimeo.com/video/951472398?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Master Sheet System"></iframe>
+[![Master Sheet System](thumbnail.png)](https://vimeo.com/951472398)
 
 ## Overview
 
