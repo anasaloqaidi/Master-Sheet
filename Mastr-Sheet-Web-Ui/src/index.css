@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "ChangaRegular";
+  src: local("Changa-Regular"),
+    url("/assets/fonts/changa/Changa-Regular.ttf") format("truetype");
+}
